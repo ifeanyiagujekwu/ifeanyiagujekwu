@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifeanyiagujekwu
-- 👀 I’m interested in node/react/angular/flutter
+- 👀 I’m interested in node/react/flutter/python/c-sharp
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me ifeanyiagujekwu@gmail.com
